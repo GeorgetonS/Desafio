@@ -1,8 +1,8 @@
-﻿using Desafio.Imap.Api.Entities;
+﻿using Desafio.Imap.Core.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Desafio.Imap.Api.Mapping;
+namespace Desafio.Imap.Infra.Mapping;
 
 public class EnderecoMap : IEntityTypeConfiguration<Endereco>
 {

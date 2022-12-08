@@ -1,0 +1,8 @@
+cd .\Desafio.Imap.Infra
+
+dotnet ef migrations add InitialCreate --project .\Desafio.Imap.Infra.csproj -s ..\Desafio.Imap.Api\
+
+dotnet ef database update InitialCreate --project .\Desafio.Imap.Infra.csproj -s ..\Desafio.Imap.Api\
+
+dotnet ef migrations script -o script.db --project .\Desafio.Imap.Infra.csproj -s ..\Desafio.Imap.Api\
+ 

@@ -1,4 +1,4 @@
-﻿using Desafio.Imap.Api.Models;
+﻿using Desafio.Imap.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

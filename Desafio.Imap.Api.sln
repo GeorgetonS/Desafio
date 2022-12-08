@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio.Imap.Api", "Desafio.Imap.Api\Desafio.Imap.Api.csproj", "{097875F4-829D-49AB-944B-FACE75C86314}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Imap.Core", "Desafio.Imap.Core\Desafio.Imap.Core.csproj", "{93B3A3A9-C9C2-480E-ABB4-548CC4EBE587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Imap.Infra", "Desafio.Imap.Infra\Desafio.Imap.Infra.csproj", "{5A08BD78-EE01-42EB-8654-64BB763E8864}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{097875F4-829D-49AB-944B-FACE75C86314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097875F4-829D-49AB-944B-FACE75C86314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097875F4-829D-49AB-944B-FACE75C86314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B3A3A9-C9C2-480E-ABB4-548CC4EBE587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B3A3A9-C9C2-480E-ABB4-548CC4EBE587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B3A3A9-C9C2-480E-ABB4-548CC4EBE587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B3A3A9-C9C2-480E-ABB4-548CC4EBE587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A08BD78-EE01-42EB-8654-64BB763E8864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A08BD78-EE01-42EB-8654-64BB763E8864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A08BD78-EE01-42EB-8654-64BB763E8864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A08BD78-EE01-42EB-8654-64BB763E8864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

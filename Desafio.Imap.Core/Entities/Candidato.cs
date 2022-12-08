@@ -1,4 +1,4 @@
-﻿namespace Desafio.Imap.Api.Entities;
+﻿namespace Desafio.Imap.Core.Entities;
 
 public class Candidato
 {

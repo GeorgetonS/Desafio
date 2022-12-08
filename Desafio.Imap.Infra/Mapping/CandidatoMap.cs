@@ -1,8 +1,8 @@
-﻿using Desafio.Imap.Api.Entities;
+﻿using Desafio.Imap.Core.Entities;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore;
 
-namespace Desafio.Imap.Api.Mapping;
+namespace Desafio.Imap.Infra.Mapping;
 
 public class CandidatoMap
 {

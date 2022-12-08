@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Desafio.Imap.Api.Models;
+namespace Desafio.Imap.Core.Models;
 
 public class EnderecoViewModel
 {

@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using Desafio.Imap.Api.Context;
-using Desafio.Imap.Api.Entities;
-using Desafio.Imap.Api.Models;
+using Desafio.Imap.Infra.Context;
+using Desafio.Imap.Core.Entities;
+using Desafio.Imap.Core.Models;
 using AutoMapper;
 using System.Text.RegularExpressions;
 

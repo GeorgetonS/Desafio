@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using Desafio.Imap.Api.Entities;
-using Desafio.Imap.Api.Models;
+using Desafio.Imap.Core.Entities;
+using Desafio.Imap.Core.Models;
 
-namespace Desafio.Imap.Api.Mapper;
+namespace Desafio.Imap.Infra.Mapper;
 
 public class AutoMapperProfile : Profile
 {

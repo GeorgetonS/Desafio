@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Desafio.Imap.Api.Mapper;
+using Desafio.Imap.Infra.Mapper;
 
 namespace Desafio.Imap.Api.Extensions;
 

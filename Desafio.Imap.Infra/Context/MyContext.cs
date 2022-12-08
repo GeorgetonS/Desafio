@@ -1,8 +1,8 @@
-﻿using Desafio.Imap.Api.Entities;
-using Desafio.Imap.Api.Mapping;
+﻿using Desafio.Imap.Core.Entities;
+using Desafio.Imap.Infra.Mapping;
 using Microsoft.EntityFrameworkCore;
 
-namespace Desafio.Imap.Api.Context;
+namespace Desafio.Imap.Infra.Context;
 
 public class MyContext : DbContext
 {

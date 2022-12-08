@@ -2,10 +2,10 @@
 
 #nullable disable
 
-namespace Desafio.Imap.Api.Migrations
+namespace Desafio.Imap.Infra.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreation : Migration
+    public partial class InitialCreate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

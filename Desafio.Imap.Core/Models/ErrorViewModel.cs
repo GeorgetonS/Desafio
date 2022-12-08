@@ -1,4 +1,4 @@
-namespace Desafio.Imap.Api.Models
+namespace Desafio.Imap.Core.Models
 {
     public class ErrorViewModel
     {

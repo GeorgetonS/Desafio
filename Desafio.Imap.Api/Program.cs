@@ -1,4 +1,4 @@
-using Desafio.Imap.Api.Context;
+using Desafio.Imap.Infra.Context;
 using Desafio.Imap.Api.Extensions;
 using Microsoft.EntityFrameworkCore;
 
